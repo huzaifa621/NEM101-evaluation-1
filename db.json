@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "voter",
+      "username": "john",
+      "password": "1234",
+      "age": 15,
+      "token": "6f85eca06c"
+    },
+    {
+      "id": 2,
+      "name": "Donald Trump",
+      "role": "candidate",
+      "votes": 1,
+      "party": "PartyA",
+      "age": 15
+    },
+    {
+      "id": 3,
+      "name": "xyz",
+      "age": 18,
+      "role": "voter",
+      "username": "xyz1",
+      "password": 123
+    },
+    {
+      "id": 4,
+      "name": "xyz",
+      "age": 18,
+      "role": "voter",
+      "username": "xyz2",
+      "password": 123
+    },
+    {
+      "id": 5,
+      "name": "Obama",
+      "role": "candidate",
+      "votes": 3,
+      "party": "PartyB",
+      "age": 15
+    }
+  ]
+}
